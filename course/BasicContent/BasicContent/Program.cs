@@ -10,7 +10,8 @@
             //new C004StringMethods().ShowC004StringMethods();
             //new C005IfElseTestament().ShowC005IfElseTestament();
             //new C006SwitchTestament().ShowC006SwitchTestament();
-            new C007ForLooping().ShowC007ForLooping();
+            //new C007ForLooping().ShowC007ForLooping();
+            new C008WhileLooping().ShowC008WhileLooping();
         }
     }
 }
