@@ -14,8 +14,10 @@ namespace BasicContent
             //new C006SwitchTestament().ShowC006SwitchTestament();
             //new C007ForLooping().ShowC007ForLooping();
             //new C008WhileLooping().ShowC008WhileLooping();
+            
+            
             //new NumberGuessing().ShowChallenger();
-            new Jokenpo().ShowChallenger();
+            //new Jokenpo().ShowChallenger();
         }
     }
 }
