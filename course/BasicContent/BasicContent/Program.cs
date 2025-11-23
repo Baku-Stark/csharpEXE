@@ -1,4 +1,6 @@
-﻿namespace BasicContent
+﻿using BasicContent.Challengers;
+
+namespace BasicContent
 {
     class Program
     {
@@ -11,7 +13,9 @@
             //new C005IfElseTestament().ShowC005IfElseTestament();
             //new C006SwitchTestament().ShowC006SwitchTestament();
             //new C007ForLooping().ShowC007ForLooping();
-            new C008WhileLooping().ShowC008WhileLooping();
+            //new C008WhileLooping().ShowC008WhileLooping();
+            //new NumberGuessing().ShowChallenger();
+            new Jokenpo().ShowChallenger();
         }
     }
 }
