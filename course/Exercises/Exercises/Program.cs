@@ -14,6 +14,9 @@ namespace Exercises
             //new Ex005().ShowEx();
             
             // === MEDIUM ===
+            //new Ex006().ShowEx();
+            //new Ex007().ShowEx();
+            new Ex008().ShowEx();
             
             // === HARD ===
         }
