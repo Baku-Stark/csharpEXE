@@ -21,7 +21,11 @@ namespace Exercises
             //new Ex010().ShowEx();
             
             // === HARD ===
-            new Ex015().ShowEx();
+            //new Ex011().ShowEx();
+            new Ex012().ShowEx();
+            //new Ex013().ShowEx();
+            //new Ex014().ShowEx();
+            //new Ex015().ShowEx();
         }
     }
 }
